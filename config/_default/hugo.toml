@@ -1,13 +1,13 @@
 ## Base URL for the site
 baseURL = 'https://lawyerbobo.netlify.app/'
 ## Site title
-title = 'Example'
+title = '小波波律師事務所 | 專業法律諮詢'
 ## Use hugo-brewm theme
 theme = 'hugo-brewm'
 ## Enable Git information for pages, (e.g. lastMod date information)
 enableGitInfo = true
 ## Convert all URLs to absolute URLs
-canonifyURLs = true
+canonifyURLs = false
 ## Default language for content
 defaultContentLanguage = 'zh-tw'
 ## Put default language in subdirectory
@@ -108,9 +108,9 @@ enableRobotsTXT = true
 ## Site parameters
 [params]
     ## Site title
-    title = "Example"
+    title = "小波波律師事務所 | 專業法律諮詢"
     ## Site description
-    description = "An ExampleSite built with Hugo and Hugo-Brewm theme"
+    description = "提供專業法律諮詢、民刑事訴訟代理，致力於保護您的法律權益。位於台灣的專業律師團隊。"
     ## Copyright notice
     copyright = "© 2026 小波波律師"
     ## Hide "powered by hugo" on colophon
