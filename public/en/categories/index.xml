@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>email@example.com (Author Name)</managingEditor>
     <webMaster>email@example.com (Author Name)</webMaster>
-    <lastBuildDate>Wed, 18 Feb 2026 22:28:14 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 01:47:43 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
         <atom:link href="http://localhost:1313/categories/index.xml" hreflang="zh-tw" rel="alternate" type="application/rss&#43;xml" />
         
@@ -21,7 +21,7 @@
       <guid>http://localhost:1313/en/categories/cases/</guid>
       <description>&lt;p&gt;Explore our successful track record and legal precedents handled by A-Bo-Bo Law Firm.&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;Explore our successful track record and legal precedents handled by A-Bo-Bo Law Firm.&lt;/p&gt;&#xA;</content:encoded>
-      <enclosure url="/images/cases.jpg" length="0" type="image/jpeg" />
+      <enclosure url="/lawyer-website/images/cases.jpg" length="0" type="image/jpeg" />
     </item>
     <item>
       <title>Knowledge Sharing</title>
@@ -32,7 +32,7 @@
       <guid>http://localhost:1313/en/categories/blogs/</guid>
       <description>&lt;p&gt;Expert legal analysis and insights, simplified for your understanding.&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;Expert legal analysis and insights, simplified for your understanding.&lt;/p&gt;&#xA;</content:encoded>
-      <enclosure url="/images/blogs.jpg" length="0" type="image/jpeg" />
+      <enclosure url="/lawyer-website/images/blogs.jpg" length="0" type="image/jpeg" />
     </item>
     <item>
       <title>FAQs</title>
@@ -43,7 +43,7 @@
       <guid>http://localhost:1313/en/categories/faqs/</guid>
       <description>&lt;p&gt;Find answers to common legal questions regarding our services, billing, and legal procedures.&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;Find answers to common legal questions regarding our services, billing, and legal procedures.&lt;/p&gt;&#xA;</content:encoded>
-      <enclosure url="/images/faqs.jpg" length="0" type="image/jpeg" />
+      <enclosure url="/lawyer-website/images/faqs.jpg" length="0" type="image/jpeg" />
     </item>
     <item>
       <title>Public Resources</title>
@@ -54,7 +54,7 @@
       <guid>http://localhost:1313/en/categories/services/</guid>
       <description>&lt;p&gt;A collection of useful legal tools, government links, and document templates to assist you with your legal needs.&lt;/p&gt;</description>
       <content:encoded>&lt;p&gt;A collection of useful legal tools, government links, and document templates to assist you with your legal needs.&lt;/p&gt;&#xA;</content:encoded>
-      <enclosure url="/images/services.jpg" length="0" type="image/jpeg" />
+      <enclosure url="/lawyer-website/images/services.jpg" length="0" type="image/jpeg" />
     </item>
   </channel>
 </rss>

@@ -1,5 +1,5 @@
 ## Base URL for the site
-baseURL = 'https://hsinchiang.github.io/lawyer-website/'
+baseURL = 'https://hsinchiang.github.io/'
 ## Site title
 title = '小波波律師事務所 | 專業法律諮詢'
 ## Use hugo-brewm theme
