@@ -296,6 +296,16 @@
 </blockquote>
 <h2 id="律師的小叮嚀">律師的小叮嚀</h2>
 
+<span role="presentation" id="謹言慎行"></span>
+<style>
+    #謹言慎行 {
+        counter-reset: 謹言慎行;
+    }
+    .謹言慎行::after {
+        counter-increment: 謹言慎行;
+        content: ' ' counter(謹言慎行) '. ';
+    }
+</style>
 <blockquote role="complementary">
     <span class="謹言慎行 textssc" role="heading">謹言慎行</span>
     開庭時說的每一句話都會被記錄在筆錄上，成為日後判決的依據。

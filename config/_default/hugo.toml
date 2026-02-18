@@ -1,5 +1,5 @@
 ## Base URL for the site
-baseURL = 'https://www.lawyer-bobo.com/'
+baseURL = 'https://lawyerbobo.netlify.app/'
 ## Site title
 title = 'Example'
 ## Use hugo-brewm theme

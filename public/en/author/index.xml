@@ -8,10 +8,20 @@
     <language>en-us</language>
     <managingEditor>email@example.com (Author Name)</managingEditor>
     <webMaster>email@example.com (Author Name)</webMaster>
-    <lastBuildDate>Wed, 18 Feb 2026 16:36:31 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 19:12:26 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/en/author/index.xml" rel="self" type="application/rss+xml" />
         <atom:link href="http://localhost:1313/author/index.xml" hreflang="zh-tw" rel="alternate" type="application/rss&#43;xml" />
         
+    <item>
+      <title>小波波 律師</title>
+      <link>http://localhost:1313/en/author/%E5%B0%8F%E6%B3%A2%E6%B3%A2-%E5%BE%8B%E5%B8%AB/</link>
+      <pubDate>Wed, 18 Feb 2026 16:36:00 +0800</pubDate>
+      <author>email@example.com (Author Name)</author>
+      <dc:creator>Author Name</dc:creator>
+      <guid>http://localhost:1313/en/author/%E5%B0%8F%E6%B3%A2%E6%B3%A2-%E5%BE%8B%E5%B8%AB/</guid>
+      <description></description>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <title>A-Bo-Bo Attorney at Law</title>
       <link>http://localhost:1313/en/author/a-bo-bo-attorney-at-law/</link>
