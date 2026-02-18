@@ -1,7 +1,9 @@
 backend:
   name: github
-  repo: hsinchiang/lawyer-website
+  repo: hsinchiang/hsinchiang.github.io # 這是您改名後的「個人主頁」倉庫
   branch: master
+  base_url: https://api.netlify.com      # 這是讓 GitHub 同意您登入的必要「翻譯官」
+  auth_endpoint: auth
 
 media_folder: "static/images"
 public_folder: "/images"
