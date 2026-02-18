@@ -1,9 +1,12 @@
 backend:
   name: github
-  repo: hsinchiang/hsinchiang.github.io # 這是您改名後的「個人主頁」倉庫
+  repo: hsinchiang/hsinchiang.github.io
   branch: master
-  base_url: https://api.netlify.com      # 這是讓 GitHub 同意您登入的必要「翻譯官」
+  base_url: https://api.netlify.com      
   auth_endpoint: auth
+  # 修正：移除 https:// 和結尾的 /
+  site_domain: identity-hsin.netlify.app
+
 
 media_folder: "static/images"
 public_folder: "/images"
