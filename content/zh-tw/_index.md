@@ -3,7 +3,7 @@ title: "小波波律師事務所"
 date: 2023-10-24
 draft: false
 description: "您的權益，由我們來守護。專注於民事訴訟、刑事辯護與商務法律顧問。"
-cover: '/images/cover.jpg'
+cover: 'images/cover.jpg'
 keepAspectRatio: true
 ---
 
