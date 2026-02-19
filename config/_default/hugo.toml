@@ -113,7 +113,7 @@ enableRobotsTXT = true
     ## Site description
     description = "提供專業法律諮詢、民刑事訴訟代理，致力於保護您的法律權益。位於台灣的專業律師團隊。"
     ## Copyright notice
-    copyright = "© 2026 小波波律師"
+    copyright = "© 2026 小波波律師 | 版權所有"
     ## Hide "powered by hugo" on colophon
     # HideHugoCredit = true
     ## Enable extended metadata (social cards)
@@ -133,13 +133,13 @@ enableRobotsTXT = true
 
     ## Author information
     [params.author]
-        ## site author's name
-        name = 'Author Name'
-        ## Author's email (will be used for RSS feed)
-        email = 'email@example.com'
-        ## Co-authors information (optional)
+        ## 網站主要作者名稱
+        name = '小波波 律師'
+        ## 作者電子郵件 (會用於 RSS feed)
+        email = '您的聯絡信箱@example.com'
+        ## 共同作者資訊 (如果只有您一人，可以將下方清單留空或刪除)
         coauthor = [
-            {name = "A.N. Other", bio = "This quick paragraph is written in site configuration (hugo.toml). Therefore, no markdown support. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."}
+            {name = "小波波 律師", bio = "專業法律諮詢、民刑事訴訟代理。致力於提供最優質的法律服務，保護每一位當事人的合法權益。"}
         ]
 
     ## Comments configuration
@@ -234,7 +234,7 @@ enableRobotsTXT = true
         ## Enable twitter and opengraph social cards (same .params.extMeta setting)
         enable = true
         ## Default social card image
-        images = "https://repository-images.githubusercontent.com/923527728/46a32a19-69ac-45b3-91a4-c4d299fb234b" ## recommended resolution: 1200 x 630px
+        images = "https://hsinchiang.github.io/images/socialCard" ## recommended resolution: 1200 x 630px
 
         ## Enable Twitter cards
         # twitter = true
