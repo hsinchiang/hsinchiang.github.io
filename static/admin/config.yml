@@ -40,8 +40,6 @@ site_url: https://hsinchiang.github.io
 media_folder: "static/images"
 public_folder: "/images"
 locale: "zh_Hant"
-logo_url: https://decapbridge.com/decapcms-with-bridge.svg
-site_url: https://hsinchiang.github.io
 
 # 👇 檔名規則
 slug:
